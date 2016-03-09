@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme.DayNight" parent="Theme.AppCompat.DayNight">
+
+        <item name="colorPrimary">@color/colorPrimaryNight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>
+        <item name="colorAccent">@color/colorAccentNight</item>
+
+        <!-- 自定义 -->
+        <item name="mtextColor">@android:color/holo_blue_dark</item>
+    </style>
+</resources>
